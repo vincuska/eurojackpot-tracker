@@ -7,8 +7,8 @@ It will import every number that has ever been drawed from Eurojackpot into a .c
 ## Run locally
 
 ```batch
-  git clone https://github.com/vincuska/eurojackpot-tracker
-  cd eurojackpot-tracker
+  git clone https://github.com/vincuska/eurojackpotTracker
+  cd eurojackpotTracker
 ```
 
 ```batch
