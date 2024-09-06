@@ -1,2 +1,2 @@
 # eurojackpotapiclient
-API client for EUROJACKPOT
+API client for [EUROJACKPOT](https://www.eurojackpot.com/)
